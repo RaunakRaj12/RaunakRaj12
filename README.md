@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/raunakr75108977" target="blank"><img src="https://img.shields.io/twitter/follow/raunakr75108977?logo=twitter&style=for-the-badge" alt="raunakr75108977" /></a> </p>
 
-- 🔭 I’m currently working on **React js and Docker.**
+- 🔭 I’m currently working on
+- **React js and Docker.**
 
 - 🌱 I’m currently learning **ReactJs, DevOps tools, TypeScript, Cloud Based solutions and AWS services.**
 
